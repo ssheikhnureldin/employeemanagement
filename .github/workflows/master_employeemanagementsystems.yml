@@ -26,8 +26,9 @@ jobs:
         run: nuget restore
 
       - name: Publish to folder
-        run: msbuild /nologo /verbosity:m /p:Configuration=Release /p:OutputPath=./published /t:Publish
+        run: msbuild /nologo /verbosity:m /p:Configuration=Release /p:OutputPath=./published /p:PublishWithAspNetCoreTargetManifest=false /t:Publish
 
+      
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
