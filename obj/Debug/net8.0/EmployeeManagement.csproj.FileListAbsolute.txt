@@ -630,7 +630,6 @@
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EmployeeManagement.props
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EmployeeManagement.props
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/bundle/EmployeeManagement.styles.css
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/projectbundle/EmployeeManagement.bundle.scp.css
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/Employee.61744648.Up2Date
@@ -641,3 +640,5 @@
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/ref/EmployeeManagement.dll
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.Tests/obj/EmployeeManagement.Tests.csproj.nuget.dgspec.json
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.Tests/obj/project.assets.json
+/Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.sourcelink.json
+/Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/wwwroot/Views/Shared/_Layout.cshtml.rz.scp.css

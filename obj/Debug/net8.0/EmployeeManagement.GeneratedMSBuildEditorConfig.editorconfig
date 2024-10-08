@@ -26,50 +26,50 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sarahsheikhnurelidn/EmployeeManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQ3JlYXRlLmNzaHRtbA==
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9FbXBsb3llZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRGVsZXRlLmNzaHRtbA==
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9FbXBsb3llZS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRGV0YWlscy5jc2h0bWw=
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9FbXBsb3llZS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRWRpdC5jc2h0bWw=
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9FbXBsb3llZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvSW5kZXguY3NodG1s
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9FbXBsb3llZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9Ib21lL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9Ib21lL1ByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9TaGFyZWQvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9TaGFyZWQvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-xw9vv8bxwl
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-zqy5bwgb29
