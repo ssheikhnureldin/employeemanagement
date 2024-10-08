@@ -642,3 +642,15 @@
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.Tests/obj/project.assets.json
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.sourcelink.json
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Employee/Create.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Employee/Delete.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Employee/Details.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Employee/Edit.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Employee/Index.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Home/Index.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Home/Privacy.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Shared/Error.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Shared/_Layout.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Shared/_ValidationScriptsPartial.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/_ViewImports.cshtml
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/_ViewStart.cshtml
