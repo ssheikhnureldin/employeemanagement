@@ -6,13 +6,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews()
-    .AddRazorOptions(options =>
-    {
-        // Specify the location of the views
-        options.ViewLocationFormats.Add("/wwwroot/Views/{1}/{0}" + ".cshtml");
-        options.ViewLocationFormats.Add("/wwwroot/Views/Shared/{0}" + ".cshtml");
-    });
+builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

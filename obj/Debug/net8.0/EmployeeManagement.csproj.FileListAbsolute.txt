@@ -641,4 +641,4 @@
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.Tests/obj/EmployeeManagement.Tests.csproj.nuget.dgspec.json
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/EmployeeManagement.Tests/obj/project.assets.json
 /Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/EmployeeManagement.sourcelink.json
-/Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/wwwroot/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sarahsheikhnurelidn/EmployeeManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
