@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sarahsheikhnurelidn/EmployeeManagement
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sarahsheikhnurelidn/EmployeeManagement/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5OBcVQsE8ug++SPUJqQe11xyp0XH/eW5Iin34WVbmDY=",
+  "Hash": "07Mkve68FD2ZteYjR4EXV5yiPQLPPLjcaiNg9Ifa/1Q=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/Index.cshtml",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "Index.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot/Index.cshtml"
     },
     {
       "Identity": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/js/site.js",
