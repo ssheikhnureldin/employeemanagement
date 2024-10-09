@@ -44,7 +44,7 @@ jobs:
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/ASP-app
 
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: ASP-app
           path: ${{env.DOTNET_ROOT}}/ASP-app
@@ -60,12 +60,12 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: ASP-app
       
       - name: Login to Azure
-        uses: azure/login@v2
+        uses: azure/login@v4
         with:
           client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_C08FEA56B90547ABBA9E16B3BB3E8088 }}
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_366D29AB5FD04386BAB0763DB631EFE8 }}
