@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot/Index.cshtml"
     },
     {
-      "Identity": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/js/site.css",
+      "Identity": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/js/site.js",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/",
       "BasePath": "_content/EmployeeManagement",
-      "RelativePath": "js/site.css",
+      "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.css"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
       "Identity": "/Users/sarahsheikhnurelidn/EmployeeManagement/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
