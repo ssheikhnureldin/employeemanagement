@@ -49,15 +49,15 @@
             },
             "Microsoft.Build": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.8.3, )"
             },
             "Microsoft.Build.Framework": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.8.3, )"
             },
             "Microsoft.Build.Utilities.Core": {
               "target": "Package",
-              "version": "[17.5.0, )"
+              "version": "[17.8.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

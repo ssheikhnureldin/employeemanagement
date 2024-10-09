@@ -654,4 +654,5 @@
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/Shared/_ValidationScriptsPartial.cshtml
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/_ViewImports.cshtml
 /Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Views/_ViewStart.cshtml
-/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/web.config
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Microsoft.Build.Utilities.Core.dll
+/Users/sarahsheikhnurelidn/EmployeeManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Setup.Configuration.Interop.dll
