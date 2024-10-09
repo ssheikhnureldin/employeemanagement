@@ -757,26 +757,6 @@
           }
         }
       },
-      "Microsoft.Build.Utilities.Core/17.8.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Build.Framework": "17.8.3",
-          "Microsoft.NET.StringTools": "17.8.3",
-          "Microsoft.VisualStudio.Setup.Configuration.Interop": "3.2.2146",
-          "System.Collections.Immutable": "7.0.0",
-          "System.Configuration.ConfigurationManager": "7.0.0"
-        },
-        "compile": {
-          "ref/net8.0/Microsoft.Build.Utilities.Core.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Build.Utilities.Core.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "Microsoft.CodeAnalysis.Analyzers/3.3.4": {
         "type": "package",
         "build": {
@@ -2576,22 +2556,6 @@
         },
         "build": {
           "build/netcoreapp3.1/Microsoft.TestPlatform.TestHost.props": {}
-        }
-      },
-      "Microsoft.VisualStudio.Setup.Configuration.Interop/3.2.2146": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.1/Microsoft.VisualStudio.Setup.Configuration.Interop.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.1/Microsoft.VisualStudio.Setup.Configuration.Interop.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "build/_._": {}
         }
       },
       "Microsoft.VisualStudio.Web.CodeGeneration/8.0.5": {
@@ -4626,32 +4590,6 @@
         "ref/net8.0/Microsoft.Build.Framework.xml",
         "ref/netstandard2.0/Microsoft.Build.Framework.dll",
         "ref/netstandard2.0/Microsoft.Build.Framework.xml"
-      ]
-    },
-    "Microsoft.Build.Utilities.Core/17.8.3": {
-      "sha512": "ex8Sjx02q0FmForLRFItB82sJx5s2JRWIpJgYDW1g7xLUoFlKLoNp67UwS5xN8YcYBkT7vRxXeYx/dQ96KaWtg==",
-      "type": "package",
-      "path": "microsoft.build.utilities.core/17.8.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "MSBuild-NuGet-Icon.png",
-        "README.md",
-        "lib/net472/Microsoft.Build.Utilities.Core.dll",
-        "lib/net472/Microsoft.Build.Utilities.Core.pdb",
-        "lib/net472/Microsoft.Build.Utilities.Core.xml",
-        "lib/net8.0/Microsoft.Build.Utilities.Core.dll",
-        "lib/net8.0/Microsoft.Build.Utilities.Core.pdb",
-        "lib/net8.0/Microsoft.Build.Utilities.Core.xml",
-        "microsoft.build.utilities.core.17.8.3.nupkg.sha512",
-        "microsoft.build.utilities.core.nuspec",
-        "notices/THIRDPARTYNOTICES.txt",
-        "ref/net472/Microsoft.Build.Utilities.Core.dll",
-        "ref/net472/Microsoft.Build.Utilities.Core.xml",
-        "ref/net8.0/Microsoft.Build.Utilities.Core.dll",
-        "ref/net8.0/Microsoft.Build.Utilities.Core.xml",
-        "ref/netstandard2.0/Microsoft.Build.Utilities.Core.dll",
-        "ref/netstandard2.0/Microsoft.Build.Utilities.Core.xml"
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/3.3.4": {
@@ -7538,22 +7476,6 @@
         "microsoft.testplatform.testhost.nuspec"
       ]
     },
-    "Microsoft.VisualStudio.Setup.Configuration.Interop/3.2.2146": {
-      "sha512": "gMq8uGy8zTIp0kQGTI45buZC3JOStGJyjGD8gksskk83aQISW65IESErLE/WDT7Bdy+QWbdUi7QyO1LEzUSOFA==",
-      "type": "package",
-      "path": "microsoft.visualstudio.setup.configuration.interop/3.2.2146",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/Microsoft.VisualStudio.Setup.Configuration.Interop.targets",
-        "lib/net35/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
-        "lib/net35/Microsoft.VisualStudio.Setup.Configuration.Interop.xml",
-        "lib/netstandard2.1/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
-        "lib/netstandard2.1/Microsoft.VisualStudio.Setup.Configuration.Interop.xml",
-        "microsoft.visualstudio.setup.configuration.interop.3.2.2146.nupkg.sha512",
-        "microsoft.visualstudio.setup.configuration.interop.nuspec"
-      ]
-    },
     "Microsoft.VisualStudio.Web.CodeGeneration/8.0.5": {
       "sha512": "EffwYVdPlMAoqPCkoezF2nIyBSvgOViz+pK77IBvKWUjPAELxJtMQpYj07soK6igUvCRU1wC91a2YuTNXMqurA==",
       "type": "package",
@@ -9817,9 +9739,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Mvc.Testing >= 8.0.8",
-      "Microsoft.Build >= 17.8.3",
-      "Microsoft.Build.Framework >= 17.8.3",
-      "Microsoft.Build.Utilities.Core >= 17.8.3",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
       "Microsoft.EntityFrameworkCore.InMemory >= 8.0.8",
@@ -9877,18 +9796,6 @@
           "Microsoft.AspNetCore.Mvc.Testing": {
             "target": "Package",
             "version": "[8.0.8, )"
-          },
-          "Microsoft.Build": {
-            "target": "Package",
-            "version": "[17.8.3, )"
-          },
-          "Microsoft.Build.Framework": {
-            "target": "Package",
-            "version": "[17.8.3, )"
-          },
-          "Microsoft.Build.Utilities.Core": {
-            "target": "Package",
-            "version": "[17.8.3, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

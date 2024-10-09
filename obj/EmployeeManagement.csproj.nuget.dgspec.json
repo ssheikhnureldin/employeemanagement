@@ -47,18 +47,6 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.Build": {
-              "target": "Package",
-              "version": "[17.8.3, )"
-            },
-            "Microsoft.Build.Framework": {
-              "target": "Package",
-              "version": "[17.8.3, )"
-            },
-            "Microsoft.Build.Utilities.Core": {
-              "target": "Package",
-              "version": "[17.8.3, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
