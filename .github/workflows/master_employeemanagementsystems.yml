@@ -8,7 +8,12 @@ on:
     branches:
       - master
   workflow_dispatch:
-
+env:
+  AZURE_WEBAPP_NAME: EmployeeManagementSystems
+  AZURE_WEBAPP_PACKAGE_PATH: EmployeeManagement/published
+  CONFIGURATION: Release
+  DOTNET_CORE_VERSION: 6.0.x
+  WORKING_DIRECTORY: EmployeeManagement
 jobs:
   build:
     runs-on: windows-latest
@@ -41,13 +46,13 @@ jobs:
         run: nuget restore
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/ASP-app
+        run: dotnet publish -c Release -o ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}/ASP-app
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
-          path: ${{env.DOTNET_ROOT}}/ASP-app
+          path: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}/ASP-app
 
   deploy:
     runs-on: windows-latest
@@ -77,5 +82,5 @@ jobs:
         with:
           app-name: 'EmployeeManagementSystems'
           slot-name: 'Production'
-          package: .
+          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
           
