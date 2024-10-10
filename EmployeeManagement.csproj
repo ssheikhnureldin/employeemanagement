@@ -32,7 +32,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Update="Views\**\*.cshtml">
+    <Content Update="wwwroot\**\*.*">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
 </ItemGroup>
